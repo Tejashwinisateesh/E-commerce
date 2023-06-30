@@ -1,0 +1,145 @@
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.leftNavBar{
+  height: 100%;
+  width: 15%;
+  background-color:#227D91 ;
+
+}
+.topHeader{
+height: 10%;
+width: 100%;
+color: #227D91;
+font-size: larger;
+font-size: 28px;
+background-color:#C3E9F1; 
+}
+.rightContent{
+  height: 100%;
+  width: 90%;
+
+  position: relative;
+  /* display: inline; */
+}
+
+.mainContent{
+  height: 90%;
+  width: 100%;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .sidenav {
+  height: 100%;
+  width: 270px;
+   position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:#227D91;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+ .sidenav a {
+  padding: 30px 8px 10px 80px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #ffffff;
+  display: block;
+} 
+
+
+ .sidenav a.active {
+  background-color: #227D91;
+  color: white;
+}
+.sidenav a:hover {
+  color: #ffffff;
+} 
+.main1{
+  margin-left: 250px;
+  font-size: 28px; 
+  padding: 0px 10px;
+  color: #227D91;
+  font-size: larger;
+  width: 100%;
+}
+
+.searchbar{
+  height: 50px;
+  width: 800px;
+  margin-top: 23px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.design{
+  height: 20px;
+  width: 20px;
+}
+
+
+.header{
+  position: absolute;
+  width: 1590px;
+  height: 100px;
+  left: 272px;
+   top: 0px;
+   
+}
+.card1{
+  background-color: #C3E9F1;
+}
+.card{
+margin-left: 350px; 
+font-size: 28px; 
+padding: 0px 10px;
+margin-top: 200px;
+color: #227D91;
+font-size: larger;
+width: 2990px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+color: aqua;
+margin-left: 350;
+margin-top: 200px;
+}
+table {
+font-family: arial, sans-serif;
+width: 100%;
+}
+
+td, th {
+border: 1px solid #C3E9F1;
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color:#C3E9F1;
+}
+
+ */

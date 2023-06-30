@@ -1,0 +1,81 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    background: #227D91;
+    justify-content: center;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+}
+.row{
+    justify-content: center;
+}
+.card{
+  margin: 10px;
+    background:#ffffff;
+    text-align: center;
+    justify-items: center;
+    /* box-shadow: rgba(1, 1, 1, 1) 0px 0px 1px; */
+    /* box-shadow: 10px 42px 78px 1px rgba(255,255,255,1);
+    -webkit-box-shadow: 10px 42px 78px 1px rgba(255,255,255,1);
+    -moz-box-shadow: 10px 42px 78px 1px rgba(255,255,255,1); */
+    box-shadow: rgba(255, 255, 255,1) 0px 22px 70px 4px;
+}
+
+.section1{
+     margin: 15%;
+    height: 500px;
+    width: 800px;
+}
+
+#form{
+    background:#ffffff;
+    border-radius: 5px;
+    width: 550px;
+    margin: 40px auto;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 650px;
+}
+
+.form-body{
+    text-align: right;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.button{
+        background-color: #227D91; 
+        border: none;
+        /* border-radius: 15%; */
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        transition-duration: 0.4s;
+
+}
+      .button:hover {
+        background-color: #227D91;
+        color: white;
+      }
+   
